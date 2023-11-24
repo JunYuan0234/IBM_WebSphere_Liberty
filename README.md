@@ -32,7 +32,7 @@ Windows will be used as the Operating System, Command Line will be used over IBM
 
 ![Websphere Liberty Logo](Image/2.png)
 
-5. Then press _x_ to skip and 1 to agree to all the terms and condiiton. Enter the file path to extract the application on or press enter for the default file path to he used as shown in the prompt above.
+5. Then press _x_ to skip and 1 to agree to all the terms and condition. Enter the file path to extract the application on or press enter for the default file path to he used as shown in the prompt above.
 
 ![Websphere Liberty Logo](Image/license_1.jpeg)
 
