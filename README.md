@@ -121,3 +121,12 @@ _From this step onwards, the tutorials doesnt have an actual picture and steps b
 
 ### Configuring auto scaling
 [IBM auto scaling documentation](https://www.ibm.com/docs/en/was-liberty/nd?topic=collectives-setting-up-auto-scaling-liberty)
+
+### Additional Notes
+
+For more information you could visit:
+
+- [Auto scaling with Docker](https://github.com/romankhar/WebSphere-Liberty-Autoscale-Docker/blob/master/setenv.sh)
+- [Introduction to Websphere Liberty](https://github.com/IBMTechSales/liberty-enterprise-deployment-labs/tree/master/1030-Value-of-Liberty-dynamic-routing)
+- [Unix Code for WebSphere Liberty](https://www.ibm.com/docs/en/was-liberty/nd?topic=collectives-setting-up-auto-scaling-liberty)
+- [Websphere Liberty Blog and video](https://www.ibm.com/docs/en/was-liberty/nd?topic=collectives-setting-up-auto-scaling-liberty)
