@@ -8,7 +8,7 @@ In this tutorial, the main objective is to showcase the procedure from Downloadi
 
 Windows will be used as the Operating System, Command Line will be used over IBM Installation Manager and some installation will be using IBMid exclusive portal for downloads (alternative will be written but will not be demonstarate). 
 
-**Ensure you have IBM version of JRE installed **
+**Ensure you have IBM version of JRE installed**
 
 
 
