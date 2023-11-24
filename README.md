@@ -63,7 +63,7 @@ Windows will be used as the Operating System, Command Line will be used over IBM
 
 ### Adding Admin center feature to the server
 
-1. Using file explorer, look for a server.xml file in the_ <file_path>/wlp/usr/servers/<server_name>/server.xml_.
+1. Using file explorer, look for a server.xml file in the _<file_path>/wlp/usr/servers/<server_name>/server.xml_.
 
 ![Websphere Liberty Logo](Image/7.png)
 
